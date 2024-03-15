@@ -1,0 +1,4 @@
+name: MCLANLoginPlugin
+version: '${project.version}'
+main: io.github.tuangadmm.mclanloginplugin.MCLANLoginPlugin
+api-version: '1.20'
